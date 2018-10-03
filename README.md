@@ -1,2 +1,2 @@
 # Reminder
-Basics operations using BeautifulSoup
+Basic operations using BeautifulSoup
